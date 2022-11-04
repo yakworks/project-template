@@ -1,0 +1,7 @@
+build/
+.gitsecret/keys/random_seed
+!*.secret
+.env
+bot.env
+cache-key.tmp
+.idea
